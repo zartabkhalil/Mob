@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "TestTemplate.app"
-               BlueprintName = "TestTemplate"
-               ReferencedContainer = "container:TestTemplate.xcodeproj">
+               BuildableName = "Mob.app"
+               BlueprintName = "Mob"
+               ReferencedContainer = "container:Mob.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "TestTemplateTests.xctest"
-               BlueprintName = "TestTemplateTests"
-               ReferencedContainer = "container:TestTemplate.xcodeproj">
+               BuildableName = "MobTests.xctest"
+               BlueprintName = "MobTests"
+               ReferencedContainer = "container:Mob.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "TestTemplate.app"
-            BlueprintName = "TestTemplate"
-            ReferencedContainer = "container:TestTemplate.xcodeproj">
+            BuildableName = "Mob.app"
+            BlueprintName = "Mob"
+            ReferencedContainer = "container:Mob.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "TestTemplate.app"
-            BlueprintName = "TestTemplate"
-            ReferencedContainer = "container:TestTemplate.xcodeproj">
+            BuildableName = "Mob.app"
+            BlueprintName = "Mob"
+            ReferencedContainer = "container:Mob.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

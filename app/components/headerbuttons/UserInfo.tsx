@@ -14,7 +14,7 @@ import Avatar from '../../assets/Av.png';
 const UserInfo = () => {
     return  <Box ph={10} mt={10} mr={10}>
         <TouchableOpacity  activeOpacity={1} style={[styles.backArrow]}>
-            <Image source={Avatar} style={{height:50,width:50,borderRadius:50}} resizeMode={'contain'} />
+            <Image source={Avatar} style={{height:40,width:40,borderRadius:50}} resizeMode={'contain'} />
             <Image source={chervie} style={{height:20,width:20 ,marginTop:15}} resizeMode={'contain'} />
         </TouchableOpacity>
     </Box>

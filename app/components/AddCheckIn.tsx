@@ -8,7 +8,7 @@ const AddCheckIn = ({handler}) => (
     <View>
 
       <Text style={{fontSize:20,color:'white',textAlign:'center'}}>Hi! 👋 James Doe</Text>
-      <Box ph={20} mt={10}>
+      <Box ph={70} mt={10}>
     <Text style={{color:'white',textAlign:'center'}}>
       Lorem ipsus dolor sit amen, something important to say here
     </Text>
@@ -31,7 +31,6 @@ const styles=StyleSheet.create({
     height:200,
     marginTop:30,
     margin:10,
-    borderWidth:1,
     borderRadius:20,
     margin:20,
     justifyContent:'center',
